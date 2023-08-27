@@ -21,13 +21,16 @@ Presented CapsNet architecture. The model takes word IDs as input and employs pr
 A straightforward general structure of the experiment that have been performed on the text data.
 
 ![summary_tab](assets/HATE-EDA.jpg)
-A straightforward general structure of the experiment that have been performed on the text data.
+Metrics to assess the readabilty or ease of understanding texts. A: Dale-Chall readability; B: Automated readability; C: Flesch reading ease. D: Non English language percentages; E: English and non-English language count; F: Toxic class counts.
 
 ![summary_tab](assets/HATE-sentiment.jpg)
-A straightforward general structure of the experiment that have been performed on the text data.
+**Sentiments scores.** A: Neutrality; B: Compound; C: Positivity; D: Negativity. **Comparative analysis against toxicity.** (E: Neutrality, F: Compound, G: Positivity, H: Negativity) vs Toxicity
 
 ![summary_tab](assets/all-architecture.jpg)
-A straightforward general structure of the experiment that have been performed on the text data.
+Basic architecture of all the models (VNN, CNN, CapsNet, DistilBERT) that tested till now. Common layer for every architecture are the BERT embeddings and classifier.
+
+![summary_tab](assets/table_1_2.jpg)
+![summary_tab](assets/table_3.jpg)
 
 <!-- ## Get Started
 - [Pre-training](asuka)
