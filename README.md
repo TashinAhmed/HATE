@@ -4,7 +4,7 @@
 
 [Md Habibur Rahman Sifat](https://github.com/Yuxin-CV)<sup>1</sup>, [Noor Hossain Nuri Sabab](https://github.com/Quan-Sun)<sup>2</sup>, [Tashin Ahmed](https://tashinahmed.github.io/)<sup>3</sup>
  
-<sup>1</sup>[he Hong Kong Polytechnic University](habib.sifat@connect.polyu.hk), <sup>2</sup>[Department of CSE, UIU](nsabab@aol.com), <sup>3</sup>[Smart Studios](tashin@smartstudios.io)
+<sup>1</sup>[he Hong Kong Polytechnic University](habib.sifat@connect.polyu.hk), <sup>2</sup>[Department of CSE, UIU](nsabab@aol.com), <sup>3</sup>[Smart Studios Malta](tashin@smartstudios.io)
 
 </div>
 
