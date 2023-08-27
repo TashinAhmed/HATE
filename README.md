@@ -20,12 +20,21 @@ Presented CapsNet architecture. The model takes word IDs as input and employs pr
 ![summary_tab](assets/HATE-main.jpg)
 A straightforward general structure of the experiment that have been performed on the text data.
 
-## Get Started
+![summary_tab](assets/HATE-EDA.jpg)
+A straightforward general structure of the experiment that have been performed on the text data.
+
+![summary_tab](assets/HATE-sentiment.jpg)
+A straightforward general structure of the experiment that have been performed on the text data.
+
+![summary_tab](assets/all-architecture.jpg)
+A straightforward general structure of the experiment that have been performed on the text data.
+
+<!-- ## Get Started
 - [Pre-training](asuka)
 - [Image Classification](asuka)
 - [Object Detection & Instance Segmentation](det)
 - [Semantic Segmentation](seg)
-- [CLIP](../EVA-CLIP)
+- [CLIP](../EVA-CLIP) -->
 
 
 <!-- ## Best Practice
