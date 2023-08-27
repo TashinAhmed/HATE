@@ -29,8 +29,8 @@ Metrics to assess the readabilty or ease of understanding texts. A: Dale-Chall r
 ![summary_tab](assets/all-architecture.jpg)
 Basic architecture of all the models (VNN, CNN, CapsNet, DistilBERT) that tested till now. Common layer for every architecture are the BERT embeddings and classifier.
 
-![summary_tab](assets/table_1_2.jpg)
-![summary_tab](assets/table_3.jpg)
+![summary_tab](assets/table_1_2.png)
+![summary_tab](assets/table_3.png)
 
 <!-- ## Get Started
 - [Pre-training](asuka)
