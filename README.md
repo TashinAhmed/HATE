@@ -17,7 +17,8 @@ Large language models (LLMs) have attracted considerable interest in the fields 
 ![summary_tab](assets/HATE-capsnet.jpg)
 Presented CapsNet architecture. The model takes word IDs as input and employs pre-trained BERT embeddings to extract context from text. A spatial dropout layer is applied to the BERT embeddings to prevent overfitting. The capsule layer receives the modified embeddings and learns to represent the input text as a collection of capsules, where each capsule represents a particular characteristic or attribute of the text. The capsule outputs are then fed into dense layers in order to learn higher-level text representations. The final dense layer generates the output prediction, which indicates the classification or label of the input text.
 
-![summary_tab](assets/summary_tab.png)
+![summary_tab](assets/HATE-main.jpg)
+A straightforward general structure of the experiment that have been performed on the text data.
 
 ## Get Started
 - [Pre-training](asuka)
