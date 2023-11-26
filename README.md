@@ -9,6 +9,8 @@
 </div>
 
 Cite from here (IEEE Xplore) - https://ieeexplore.ieee.org/document/10322429
+
+
 Large language models (LLMs) have attracted considerable interest in the fields of natural language understanding (NLU) and natural language generation (NLG) since their introduction. In contrast, the legacy of Capsule Neural Networks (CapsNet) appears to have been largely forgotten amidst all of this excitement. This project’s objective is to reignite interest in CapsNet by reopening the previously closed studies and conducting a new research into CapsNet’s potential. We present a study where CapsNet is used to classify toxic text by leveraging pre-trained BERT embeddings (bert-baseuncased) on a large multilingual dataset. In this experiment, CapsNet was tasked with categorizing toxic text. By comparing the performance of CapsNet to that of other architectures, such as DistilBERT, Vanilla Neural Networks (VNN), and Convolutional Neural Networks (CNN), we were able to achieve an accuracy of **90.44%**. This result highlights the benefits of CapsNet over text data and suggests new ways to enhance their performance so that it is comparable to DistilBERT and other reduced architectures.
 
 
