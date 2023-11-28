@@ -47,7 +47,17 @@ Basic architecture of all the models (VNN, CNN, CapsNet, DistilBERT) that tested
 - Using EVA-02 as a feature extractor: https://github.com/baaivision/EVA/issues/56. -->
 
 ## BibTeX & Citation
-TODO
+```
+@INPROCEEDINGS{10322429,
+  author={Rahman Sifat, Habibur and Nuri Sabab, Noor Hossain and Ahmed, Tashin},
+  booktitle={TENCON 2023 - 2023 IEEE Region 10 Conference (TENCON)}, 
+  title={Evaluating the Effectiveness of Capsule Neural Network in Toxic Comment Classification Using Pre-Trained BERT Embeddings}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={42-46},
+  doi={10.1109/TENCON58879.2023.10322429}}
+```
 
 <!-- ```
 @article{EVA02,
