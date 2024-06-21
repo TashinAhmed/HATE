@@ -2,7 +2,7 @@
 
 <h2><a href="https://arxiv.org/abs/2303.11331">Evaluating The Effectiveness of Capsule Neural Network in Toxic Comment Classification using Pre-trained BERT Embeddings</a></h2>
 
-[Md Habibur Rahman Sifat](https://github.com/Yuxin-CV)<sup>1</sup>, [Noor Hossain Nuri Sabab](https://github.com/Quan-Sun)<sup>2</sup>, [Tashin Ahmed](https://tashinahmed.github.io/)<sup>3</sup>
+[Md Habibur Rahman Sifat](https://github.com/habibsifat)<sup>1</sup>, [Noor Hossain Nuri Sabab](https://github.com/Quan-Sun)<sup>2</sup>, [Tashin Ahmed](https://tashinahmed.github.io/)<sup>3</sup>
  
 <sup>1</sup>[he Hong Kong Polytechnic University](habib.sifat@connect.polyu.hk), <sup>2</sup>[Department of CSE, UIU](nsabab@aol.com), <sup>3</sup>[Smart Studios Malta](tashin@smartstudios.io)
 
